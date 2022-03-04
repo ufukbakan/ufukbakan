@@ -1,7 +1,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="mailto:println.ufukbakan@gmail.com" target="_blank"><img align="center" src="https://www.svgrepo.com/show/15435/envelope.svg" alt="println.ufukbakan@gmail.com" height="30" width="40"></a>
-<a href="https://codepen.io/ufukbakan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ufukbakan" height="30" width="40" /></a>
+<a target="_blank" href="https://codepen.io/ufukbakan"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ufukbakan" height="30" width="40" /></a>
 <a href="https://twitter.com/ufukbakan18" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ufukbakan18" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ufuk-bakan-402a1b171" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ufuk-bakan-402a1b171" height="30" width="40" /></a>
 </p>
