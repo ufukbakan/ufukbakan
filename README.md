@@ -4,6 +4,7 @@
 <a target="_blank" href="https://codepen.io/ufukbakan"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ufukbakan" height="30" width="40" /></a>
 <a href="https://twitter.com/ufukbakan18" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ufukbakan18" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ufuk-bakan-402a1b171" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ufuk-bakan-402a1b171" height="30" width="40" /></a>
+  <a href="https://ufukbakan.github.io/cv/" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/40/40451.png" alt="ufuk-bakan-cv" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
