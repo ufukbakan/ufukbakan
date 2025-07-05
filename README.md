@@ -1,13 +1,13 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="mailto:println.ufukbakan@gmail.com" target="_blank"><img align="center" src="https://www.svgrepo.com/show/15435/envelope.svg" alt="println.ufukbakan@gmail.com" height="30" width="40"></a>
-<a target="_blank" href="https://codepen.io/ufukbakan"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ufukbakan" height="30" width="40" /></a>
-<a href="https://twitter.com/ufukbakan18" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ufukbakan18" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ufuk-bakan-402a1b171" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ufuk-bakan-402a1b171" height="30" width="40" /></a>
-  <a href="https://ufukbakan.github.io/cv/" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3135/3135800.png" alt="ufuk-bakan-cv" height="30" width="30" /></a>
+  <a href="mailto:println.ufukbakan@gmail.com" target="_blank"><img align="center" src="https://www.svgrepo.com/show/15435/envelope.svg" alt="println.ufukbakan@gmail.com" style="height:30px;width:40px;"></a>
+<a target="_blank" href="https://codepen.io/ufukbakan"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ufukbakan" style="height:30px;width:40px;" /></a>
+<a href="https://twitter.com/ufukbakan18" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ufukbakan18" style="height:30px;width:40px;" /></a>
+<a href="https://linkedin.com/in/ufuk-bakan-402a1b171" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ufuk-bakan-402a1b171" style="height:30px;width:40px;" /></a>
+  <a href="https://ufukbakan.github.io/cv/" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3135/3135800.png" alt="ufuk-bakan-cv" style="height:30px;width:auto;" /></a>
 </p>
 <p align="right">
-<a href="https://ufukbakan.github.io/support" target="_blank"><img align="center" height="30" src="https://ufukbakan.github.io/support/support-q2.png"/></a>
+<a href="https://ufukbakan.github.io/support" target="_blank"><img align="center" style="height:30px" src="https://ufukbakan.github.io/support/support-q2.png"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
